@@ -96,5 +96,5 @@ El puesto en sí otorga o faculta al directivo para tomar las decisiones de acue
 
 ### Procesos mentales en la toma de decisiones
 
-
+Una decesión tiene dos momentos, obtención de la idea y evaluacion de la misma.
 
