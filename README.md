@@ -6,10 +6,15 @@
     - [Método causal](#método-causal)
   - [Principios de dirección del pensamiento](#principios-de-dirección-del-pensamiento)
     - [Exploración del problema - Ubicación del problema](#exploración-del-problema---ubicación-del-problema)
-      - [Ubicación del problema](#ubicación-del-problema)
   - [Selección de obstáculos](#selección-de-obstáculos)
     - [El área de libertad del directivo en la toma de decisiones](#el-área-de-libertad-del-directivo-en-la-toma-de-decisiones)
     - [Procesos mentales en la toma de decisiones](#procesos-mentales-en-la-toma-de-decisiones)
+      - [¿Cómo aplica el líder esas soluciones?](#cómo-aplica-el-líder-esas-soluciones)
+  - [Elementos para involucrar al personal en la toma de decisiones](#elementos-para-involucrar-al-personal-en-la-toma-de-decisiones)
+    - [Principio 5 de Norman Maier](#principio-5-de-norman-maier)
+  - [Aceptación y calidad](#aceptación-y-calidad)
+    - [Principios 7 y 8 de  Norman Maier](#principios-7-y-8-de--norman-maier)
+  - [Resumen](#resumen)
 
 
 **Definición de problema** Una situación problemática es cuando nuestra acción previa se ve detenida por la presencia de uno o más obstáculos que nos están impidiendo llegar a la meta.
@@ -75,9 +80,6 @@ Podríamos definir estos principios para resolver problemas:
 
 La solución de problemas en grupo (_brainstorming_), siempre que el conductor explique estos principios y se centre en conducir la dinámica del grupo más que en la solución, puede dar lugar a enfoques alternativos.
 
-#### Ubicación del problema
-
-
 ## Selección de obstáculos
 
 Revisaremos el área de libertad que tiene un directivo para seleccionar estos obstáculos en superables y en insuperables de acuerdo a las posibilidades que tenga el directivo de resorlverlos.
@@ -98,3 +100,53 @@ El puesto en sí otorga o faculta al directivo para tomar las decisiones de acue
 
 Una decesión tiene dos momentos, obtención de la idea y evaluacion de la misma.
 
+Con el método de _ensayo y error_ el acierto aparente inhibe la exploración de otras ideas.
+
+**Principo 6 de Norman Maier**: La obtención de la idea es un proceso que debe ser separado de la evaluación de la idea, porque este inhibe a aquél.
+
+Primero debemos dejar que aparezcan todas las ideas, las habituales y las más crativas. Una vez que aparezcan todas, evaluemos cuál es la mejor solución.
+
+Para que una decisión sea evectiva necesita:
+
+1. Que la solución sea efectiva (tenga calidad): a la solución se debe llegar por razonamiento.
+2. Que la solución tenga aceptación por las personas que deben aplicar la solución. Hacer partícipes a las personas que tienen que aplicar la solución en el diseño de esta solución.
+
+#### ¿Cómo aplica el líder esas soluciones?
+
+**Principio 9 de Norman Maier**: Las soluciones sugeridas por el líder suelen ser impropiamente valoradas y tienen la misma oportunidad de ser rechazadas o aceptadas por el grupo.
+
+## Elementos para involucrar al personal en la toma de decisiones
+
+Principios de planteamiento del problema:
+
+1. **Localización de un solo objetivo:** cuando queremos solucionar un problema con apoyo del grupo es conveniente plantear un solo propósito para evitar que el grupo divague o se pierda el objetivo principal de la reunión.
+2. **Presentar el Problema en términos de Situación y no de Conducta:** para evitar que el personal actué a la defensiva debemos tratar de serdescriptivos sobre el hecho que queremos mejorar, evitando mencionar que el problema se debe a problemas del personal, por ejemplo; si decimos los llamé para investigar las causas de que estén teniendo muchos accidentes en el trabajo implícitamente estamos dando por hecho que los trabajadores están ocasionando los accidentes, un planteamiento situacional sería: los mandé reunir para analizar cuáles serían las actividades que podríamos realizar para mejorar la seguridad en nuestra planta.
+3. **El planteamiento del Problema no debe implicar una solución:**  es común que en el propio planteamiento un jefe sugiera la solución del problema al decir “ ¿qué proponen que hagamos con los retardos que están afectando la productividad?” en este planteamiento el jefe ya está dando por hecho que la solución es reducir los retardos, sería mucho mejor un planteamiento que dijera ¿qué podemos hacer para mejorar nuestros índices de productividad? Y dejar que las soluciones vengan del grupo y den por descontado que una de ellas será la de reducir los retardos.
+4. **El Problema debe ser expresado en términos de Interés Mutuo:**  el planteamiento sobre la productividad del ejemplo anterior mejoraría mucho si lo completáramos de la siguiente manera: ¿qué podemos hacer para mejorar nuestros índices de productividad de tal manera que todos podamos obtener siempre el bono de productividad?
+5. **El Planteamiento debe ser breve:** grandes discursos cansan y el trabajador deja de prestar atención.
+6. **El Planteamiento deberá respetar el área de libertad del directivo:** Obviamente no podemos pedirle a la gente que resuelva aspectos que ni nosotros podemos solucionar.
+7. **El Directivo debe compartir en el planteamiento la información esencial:** no esperemos soluciones efectivas del personal si no les damos oportunidad de contar con toda la información sobre el problema.
+
+### Principio 5 de Norman Maier
+
+El desacuerdo puede conducir tanto hacia la hostilidad como hacia la innovación, dependiendo de las habilidades del liderazgo en la discusión.
+
+## Aceptación y calidad
+
+Estos son elementos básicos para alcanzar una decisión efectiva e integral.
+
+Para obtener la aceptación, necesitamos desarrollar habilidades sobre todo en el manejo de la discusión, en el tema de sentimientos y actitudes. Podemos echar mano de tres técnicas:
+
+1. Escucha activa, con una posición neutral.
+2. Dejar que fluyan los sentimientos.
+3. Manejo de preguntas.
+
+Hacer recapitulaciones de lo que se ha dicho o acordado.
+
+### Principios 7 y 8 de  Norman Maier
+
+Las situaciones problemáticas debemos de convertirlas en situaciones de elección. Y las situaciones de elección las debemos de convertir en situaciones problemáticas.
+
+## Resumen
+
+![Resumen](./images/resumen.png)
